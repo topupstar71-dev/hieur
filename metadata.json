@@ -1,0 +1,5 @@
+{
+  "name": "SmartChat AI",
+  "description": "আপনার ব্যক্তিগত এআই চ্যাট সহকারী - Your personal AI chat assistant for smart and relevant answers in Bengali and English.",
+  "requestFramePermissions": ["microphone"]
+}
